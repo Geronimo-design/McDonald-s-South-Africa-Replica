@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a27b550a.css",
+    "main.js": "/static/js/main.707e3986.js",
+    "static/js/787.420b3693.chunk.js": "/static/js/787.420b3693.chunk.js",
+    "static/media/charity.webp": "/static/media/charity.9d6e3946a0f3cec3e416.webp",
+    "static/media/pokemon.jpg": "/static/media/pokemon.7709d471b9f0408485c2.jpg",
+    "static/media/bigThree.webp": "/static/media/bigThree.4526b19476763eabde7e.webp",
+    "static/media/delivery.webp": "/static/media/delivery.9c0fcbf18dbd3607ce39.webp",
+    "static/media/nazo.webp": "/static/media/nazo.3acfee75a2e82738aa7d.webp",
+    "static/media/chicken.webp": "/static/media/chicken.ecd6e81c6f5011c04287.webp",
+    "static/media/coffee.webp": "/static/media/coffee.59fc560a16890f7864aa.webp",
+    "static/media/logo.png": "/static/media/logo.a01c43bbd861579d9495.png",
+    "static/media/wrap.webp": "/static/media/wrap.911b7c660346687c602a.webp",
+    "static/media/Huawei.svg": "/static/media/Huawei.05f60516d2a39d595dabc4ffdec3856a.svg",
+    "static/media/twitter.svg": "/static/media/twitter.bca81dae97d7a56a8bd5fa1e0ecc93e1.svg",
+    "static/media/instagram.svg": "/static/media/instagram.858baed22573fcb7a4865095ee2a8f0c.svg",
+    "static/media/Google-Play.svg": "/static/media/Google-Play.ac31ae6df1dba23b69f866a909077d74.svg",
+    "static/media/Apple-light.svg": "/static/media/Apple-light.cdd7304efd805f2053de1036bf9b5ed4.svg",
+    "static/media/Apple.svg": "/static/media/Apple.71320a89dc7cdb815431216cf0bc1dd2.svg",
+    "static/media/facebook.svg": "/static/media/facebook.0e2fb73b426c3f6f1632ea016bd8ad8d.svg",
+    "index.html": "/index.html",
+    "static/media/youtube.svg": "/static/media/youtube.acd204166154d38f70ba71e9945e049f.svg",
+    "main.a27b550a.css.map": "/static/css/main.a27b550a.css.map",
+    "main.707e3986.js.map": "/static/js/main.707e3986.js.map",
+    "787.420b3693.chunk.js.map": "/static/js/787.420b3693.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a27b550a.css",
+    "static/js/main.707e3986.js"
+  ]
+}
